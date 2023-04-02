@@ -1,9 +1,11 @@
 <div align="center" >
-    <h3>O curso foi realizado com comando create-react-app, eu utilizei o react com o viteJs</h3>
+    <h2>O curso foi realizado com comando create-react-app, eu utilizei o react com o viteJs</h2>
 </div>
 
+
+
 <div align="left" >
-    <h3>Curso desenvolvido pelo Rodrigo Gonçalves Santana em 2020</h3>
+    <h4>Curso desenvolvido pelo Rodrigo Gonçalves Santana em 2020</h4>
 </div>
 
 <div align="left" >
