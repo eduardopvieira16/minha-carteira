@@ -1,7 +1,15 @@
 <div align="center" >
-    <h2>O curso foi realizado com comando create-react-app, eu utilizei o react com o viteJs</h2>
+    <h2>O curso foi realizado com comando create-react-app, eu utilizei o ReactJs com o ViteJs</h2>
 </div>
 
+<div align="left" >
+    <h3>Para baixar o código é a mesma maneira como outro projeto que utiliza npm</h3>
+    
+    - git clone "link do repositório"
+    - entrar na pasta do projeto "cd minha-carteira"
+    - npm install (para instalar as dependências)
+    - npm run dev (para rodar o projeto)
+</div>
 
 
 <div align="left" >
